@@ -7,6 +7,8 @@ After clicking on any person name the chat will open in main layout with the per
 But we can also type anything in input text field given in the footer section of main layout and after typing when we click on send button which is displayed as an arrow icon. That chat will get appended into a chat section.
 
 
+![image](https://user-images.githubusercontent.com/38538265/91665129-122afd00-eb11-11ea-8d0f-bbb60e00065d.png)
+
 
 
 
