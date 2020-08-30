@@ -1,0 +1,27 @@
+.main1
+{
+    background: #f2f5f8;
+    margin-top:-663px;
+    margin-left: 270px;
+    border-radius: 5px;
+    width:800px;
+    height:662px;
+}
+#para
+{
+    text-align: center;
+    color:#53A4F6;
+    font-family: 'Acme',sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top:70%;
+    left: 42%;
+}
+.fa-laptop
+{
+    color:#53A4F6;
+    font-size:100px;
+    position:absolute;
+    top:50%;
+    left:55%;
+}

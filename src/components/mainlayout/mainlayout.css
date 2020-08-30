@@ -1,0 +1,184 @@
+.main
+{
+    background: #f2f5f8;
+    margin-top:-663px;
+    margin-left: 270px;
+    border-radius: 5px;
+    width:800px;
+    height:662px;
+}
+#image
+{
+    padding:8px
+}
+#username
+{
+    color:#53A4F6;
+    margin-left: 70px;
+    margin-top: -45px;
+    font-size: 20px;
+    font-family: 'Acme',sans-serif;
+}
+#sentence
+{
+    color:#53A4F6;
+    margin-left: 70px;
+    margin-top: -5px;
+    font-family: 'Acme',sans-serif;
+
+}
+.content
+{
+    border:1px solid #f4f4f5;
+    width: 98%;
+    margin-left: 8px;
+    margin-top: 40px;
+    border-radius:10px;
+    background: #f4f4f5;
+    height: 85%;
+}
+.fa-folder
+{
+    color:#53A4F6;
+    font-size: 25px;
+    position: absolute;
+    left:80%;
+    top:8%
+}
+.fa-camera
+{
+    color:#53A4F6;
+    font-size: 25px;
+    position: absolute;
+    left:83%;
+    top:8%
+}
+.fa-video-camera
+{
+    color:#53A4F6;
+    font-size: 25px;
+    position: absolute;
+    left:86%;
+    top:8%
+}
+#name1
+{
+    color:#53A4F6;
+    font-family: 'Acme',sans-serif;
+    position: absolute;
+    left:82%
+}
+#circle1
+{
+    color:#53A4F6;
+    position: absolute;
+    left:89%;
+    font-size: 12px;
+    top:24%;
+}
+#name2
+{
+    color:#444343;
+    font-family: 'Acme',sans-serif;
+    position: absolute;
+    top:40%;
+    left:32%;
+}
+#circle2
+{
+    color:#444343;
+    position: absolute;
+    top:42%;
+    left:35%
+}
+#name3
+{
+    color:#53A4F6;
+    font-family: 'Acme',sans-serif;
+    position: absolute;
+    left:82%;
+    top:65%;
+}
+#circle3
+{
+    color:#53A4F6;
+    position: absolute;
+    left:89%;
+    font-size: 12px;
+    top:67%;
+}
+#send
+{
+    color:#53A4F6;
+    font-size: 30px;
+    position: absolute;
+    top:5.5%;
+    left:7.5%;
+}
+#name4
+{
+    color:#53A4F6;
+    font-family: 'Acme',sans-serif;
+    position: absolute;
+    left:82%;
+    top:85%;
+}
+#circle4
+{
+    color:#53A4F6;
+    position: absolute;
+    left:89%;
+    font-size: 12px;
+    top:87%;
+}
+.box1
+{
+    width:200px;
+    height:50px;
+    background:#53A4F6;
+    border-radius: 10px;
+    position: absolute;
+    left:75%;
+    top:28%
+}
+.box2
+{
+    width:250px;
+    height:60px;
+    background:#444343;
+    border-radius: 10px;
+    position: absolute;
+    left:32%;
+    top:47%;
+}
+.box3
+{
+    width:200px;
+    height:55px;
+    background:#53A4F6;
+    border-radius: 10px;
+    position: absolute;
+    left:75%;
+    top:70%
+}
+.box4
+{
+    width:200px;
+    height:55px;
+    background:#53A4F6;
+    border-radius: 10px;
+    position: absolute;
+    left:75%;
+    top:90%
+}
+#inputfield{
+    border-radius: 15px;
+    padding:8px;
+    position:absolute;
+    top:103%;
+    left:28%;
+    width: 53%;
+    opacity: 0.6;
+    background:#53A4F6;
+    font-size:14px;
+}
