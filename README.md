@@ -16,6 +16,9 @@ But we can also type anything in input text field given in the footer section of
 ![image](https://user-images.githubusercontent.com/38538265/91665263-ef4d1880-eb11-11ea-9cae-0e900ba0eb17.png)
 
 
+![image](https://user-images.githubusercontent.com/38538265/91665293-215e7a80-eb12-11ea-8f3d-4b3a7be44b64.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
