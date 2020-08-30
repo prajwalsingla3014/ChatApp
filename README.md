@@ -1,3 +1,16 @@
+I have create this basic chat application UI through React JS. In the sidebar I have generated the contact names,images,words and sentences randomly with the help of Faker.
+
+On the right side first there is basic UI with message Let's chat. I have implemented the functionality that whenever any person click on any person name in left sidebar that person chat will open. 
+
+After clicking on any person name the chat will open in main layout with the person name,status and some basic camera and video icons. The chat shown in the main layout is hard coded.
+
+But we can also type anything in input text field given in the footer section of main layout and after typing when we click on send button which is displayed as an arrow icon. That chat will get appended into a chat section.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
